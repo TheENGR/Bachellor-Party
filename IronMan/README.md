@@ -24,14 +24,12 @@ ___
 2) [Shocking Grasp](#shocking-grasp)
 3) [Thunderclap](#thunderclap)
 ### 1st level, 4 a day
-|Name|Casting Time|To Hit|Damage|Extra Effects|
-|:--|:--|:--|:--|:--|
-|Faerie Fire|||||
-|Identify|||||
-|Detect Magic|||||
-|Feather Fall|||||
-|Magic Missle|||||
-|Thunderwave|||||
+1) [Faerie Fire](#faerie-fire)
+2) [Identify](#identify)
+3) [Detect Magic](#detect-magic)
+4) [Feather Fall](#feather-fall)
+5) [Magic Missle](#magic-missle)
+6) [Thunderwave](#thunderwave)
 ### 2nd level, 3 a day
 |Name|Casting Time|To Hit|Damage|Extra Effects|
 |:--|:--|:--|:--|:--|
@@ -111,4 +109,70 @@ You create a burst of thunderous sound that can be heard up to 100 feet away. Ea
 
 The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 ### 1st Level
+#### Faerie Fire
+*1st-level evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V
+- **Duration:** Concentration, up to 1 minute
+---
+Each object in a 20-foot cube within range is outlined in blue, green, or violet light (your choice). Any creature in the area when the spell is cast is also outlined in light if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed dim light in a 10-foot radius.
+
+Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being invisible.
+#### Identify
+*1st-level divination (ritual)*
+___
+- **Casting Time:** 1 minute
+- **Range:** Touch
+- **Components:** V, S, M (a pearl worth at least 100 gp and an owl feather)
+- **Duration:** Instantaneous
+---
+You choose one object that you must touch throughout the casting of the spell. If it is a magic item or some other magic-imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it.
+
+If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.
+#### Detect Magic
+*1st-level divination (ritual)*
+___
+- **Casting Time:** 1 action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 minutes
+---
+For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.
+
+The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
+#### Feather Fall
+*1st-level transmutation*
+___
+- **Casting Time:** 1 reaction, which you take when you or a creature within 60 feet of you falls
+- **Range:** 60 feet
+- **Components:** V, M (a small feather or a piece of down)
+- **Duration:** 1 minute
+---
+Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.
+#### Magic Missile
+*1st-level evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+---
+You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.
+#### Thunderwave
+*1st-level evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** Self (15-foot cube)
+- **Components:** V, S
+- **Duration:** Instantaneous
+---
+A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed.
+
+In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 2d8 for each slot level above 1st.
 ### 2nd Level

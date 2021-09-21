@@ -28,9 +28,9 @@ ___
 ### 1st level, 4 a day
 |Name|Casting Time|To Hit|Damage|Extra Effects|
 |:--|:--|:--|:--|:--|
-|[Faerie Fire](#faerie-fire)|Action|DC 16 DEX||20 ft cube covered in glitter|
-|[Identify](#identify)|||||
-|[Detect Magic](#detect-magic)|||||
+|[Faerie Fire](#faerie-fire)|Action|DC 16 DEX||Glitter Bomb Enemies|
+|[Identify](#identify)|1 min|||Learn about magic things|
+|[Detect Magic](#detect-magic)|Action|||Make magic glow|
 |[Feather Fall](#feather-fall)|Reaction|||Fall Safely|
 |[Magic Missle](#magic-missile)|Action|Always Hits|3x(1d4+1) Force||
 |[Thunderwave](#thunderwave)|Action|DC 16 CON|2d8 Thunder|Pushed back 10 feet on a fail. 1/2 damage on save|

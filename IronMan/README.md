@@ -20,16 +20,20 @@ You can make 2 attacks per turn as your [Action](./../BaseRules/Action.md)
 ___
 ## Magic
 ### Cantrips, Unlimited
-1) [Mending](#mending)
-2) [Shocking Grasp](#shocking-grasp)
-3) [Thunderclap](#thunderclap)
+|Name|Casting Time|To Hit|Damage|Extra Effects|
+|:--|:--|:--|:--|:--|
+|[Mending](#mending)|10 min|||Fix Things|
+|[Shocking Grasp](#shocking-grasp)|Action|+8|2d8 Lightning||
+|[Thunderclap](#thunderclap)|Action|DC 16 CON|2d6 Thunder||
 ### 1st level, 4 a day
-1) [Faerie Fire](#faerie-fire)
-2) [Identify](#identify)
-3) [Detect Magic](#detect-magic)
-4) [Feather Fall](#feather-fall)
-5) [Magic Missle](#magic-missle)
-6) [Thunderwave](#thunderwave)
+|Name|Casting Time|To Hit|Damage|Extra Effects|
+|:--|:--|:--|:--|:--|
+|[Faerie Fire](#faerie-fire)|Action|DC 16 DEX||20 ft cube covered in glitter|
+|[Identify](#identify)|||||
+|[Detect Magic](#detect-magic)|||||
+|[Feather Fall](#feather-fall)|Reaction|||Fall Safely|
+|[Magic Missle](#magic-missile)|Action|Always Hits|3x(1d4+1) Force||
+|[Thunderwave](#thunderwave)|Action|DC 16 CON|2d8 Thunder|Pushed back 10 feet on a fail. 1/2 damage on save|
 ### 2nd level, 3 a day
 |Name|Casting Time|To Hit|Damage|Extra Effects|
 |:--|:--|:--|:--|:--|

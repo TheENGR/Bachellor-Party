@@ -1,4 +1,4 @@
-# Indiana Jobes
+# Indiana Jones
 ___
 - **Armor Class** 17
 - **Hit Points** 70 

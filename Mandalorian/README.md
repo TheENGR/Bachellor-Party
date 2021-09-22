@@ -1,4 +1,4 @@
-# Mandalorian
+# Mandalorian - Derek
 ___
 - **Armor Class** 20
 - **Hit Points** 98

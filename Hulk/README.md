@@ -1,6 +1,6 @@
 # Hulk
 ___
-- **Armor Class** 28
+- **Armor Class** 18
 - **Hit Points** 135 (resistant to physical attacks)
 - **Speed** 40 ft. (8 squares)
 - **Initiative** +3, Roll with advantage

@@ -29,7 +29,7 @@ ___
 ### 1st level, 4 a day
 |Name|Casting Time|To Hit|Damage|Extra Effects|
 |:--|:--|:--|:--|:--|
-|[Magic Missle](#magic-missle)|||||
+|[Magic Missile](#magic-missile)|||||
 |[Witch Bolt](#witch-bolt)|||||
 |[Burning Hands](#burning-hands)|||||
 ### 2nd level, 2 a day

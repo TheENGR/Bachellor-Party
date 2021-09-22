@@ -1,4 +1,4 @@
-# Indiana Jones
+# Indiana Jones - Blake
 ___
 - **Armor Class** 17
 - **Hit Points** 70 

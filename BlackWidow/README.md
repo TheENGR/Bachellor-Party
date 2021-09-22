@@ -1,4 +1,4 @@
-# Black Widow
+# Black Widow - Shaun
 ___
 - **Armor Class** 18
 - **Hit Points** 77 

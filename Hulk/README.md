@@ -1,4 +1,4 @@
-# Hulk
+# Hulk - Dru
 ___
 - **Armor Class** 18
 - **Hit Points** 135 (resistant to physical attacks)

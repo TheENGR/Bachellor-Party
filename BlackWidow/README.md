@@ -23,9 +23,9 @@ ___
 |Name|Cost|Effect|
 |:--|:--|:--|
 |Stunning Strike|1 Ki|DC 15 CON save or stunned until the end of your next turn|
-|Flurry of Blows|1 Ki|Do 1 more punch this turn on your Bonus Action|
-|Patient Defense|1 Ki|Dodge as a Bonus Action|
-|Step of the Wind|1 Ki|Disengage or Dash as a Bonus Action|
+|Flurry of Blows|1 Ki|Do 1 more punch this turn on your [Bonus Action](./../README.md#bonus-action)|
+|Patient Defense|1 Ki|Dodge as a [Bonus Action](./../README.md#bonus-action)|
+|Step of the Wind|1 Ki|Disengage or Dash as a [Bonus Action](./../README.md#bonus-action)|
 |[Deflect Missles](#deflect-missles)|1 Ki|If reduced to 0 damage, throw it back as an attack|
 |[Cast a Spell](#magic)|2 Ki|See Spell|
 
@@ -34,9 +34,9 @@ ___
 ### Evasion 
 Take 1/2 damage when failing a DEX save, none when succeeding 
 ### Stillness of Mind
-Action to stop being Frightened or Charmed
+[Action](./../README.md#action) to stop being Frightened or Charmed
 ### Shadow Step
-Bonus Action to teleport up to 60 feet from a shadow to a shadow. Advanmtage on the first attack afterwards 
+[Bonus Action](./../README.md#bonus-action) to teleport up to 60 feet from a shadow to a shadow. Advantage on the first attack afterwards 
 ___
 ## Magic
 ### Cantrips, Unlimited

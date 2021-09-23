@@ -40,11 +40,11 @@ ___
 ___
 ## Special Abilities
 ### Second Wind, (1 per rest)
-Bonus Action to heal 1d10+7
+[Bonus Action](./../README.md#bonus-action) to heal 1d10+7
 ### Action Surge, (1 per rest)
 Take another action this turn (2 attacks or a spell) 
 ### War Magic
-If you attack with a cantrip, you can use a weapon as a Bonus Action 
+If you attack with a cantrip, you can use a weapon as a [Bonus Action](./../README.md#bonus-action) 
 ___
 ## Skills
 |Stat|Skill|Trained|Bonus|

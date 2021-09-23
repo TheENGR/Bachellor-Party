@@ -49,23 +49,22 @@ ___
 ## Skills
 |Stat|Skill|Trained|Bonus|
 |:--|:--|--|--:|
-|Strength|Athletics||+5|
-|Dexterity|Athletics||+2|
-|Dexterity|Acrobatics||+2|
+|Strength|Athletics|Yes|+8|
+|Dexterity|Acrobatics|Yes|+5|
 |Dexterity|Sleight of Hand||+2|
-|Dexterity|Stealth||+2|
+|Dexterity|Stealth|Yes|+5|
 |Intelligence|Arcana (Magic)||+0|
 |Intelligence|History||+0|
 |Intelligence|Investigation||+0|
 |Intelligence|Nature||+0|
-|Intelligence|Religion||+0|
+|Intelligence|Religion|Yes|+3|
 |Wisdom|Animal Handling||+3|
 |Wisdom|Insight||+3|
 |Wisdom|Medicine||+3|
-|Wisdom|Perception||+3|
+|Wisdom|Perception|Yes|+6|
 |Wisdom|Survival||+3|
 |Charisma|Deception||-1|
-|Charisma|Intimidation||-1|
+|Strength OR Charisma|Intimidation|Yes|+8|
 |Charisma|Performance||-1|
 |Charisma|Persuasion||-1|
 ___

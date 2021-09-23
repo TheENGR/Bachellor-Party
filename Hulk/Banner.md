@@ -25,21 +25,20 @@ ___
 |Stat|Skill|Trained|Bonus|
 |:--|:--|--|--:|
 |Strength|Athletics||-2|
-|Dexterity|Athletics||-1|
 |Dexterity|Acrobatics||-1|
 |Dexterity|Sleight of Hand||-1|
 |Dexterity|Stealth||-1|
-|Intelligence|Arcana (Magic)||+5|
+|Intelligence|Arcana (Magic)|Expert|+13|
 |Intelligence|History||+5|
-|Intelligence|Investigation||+5|
+|Intelligence|Investigation|Expert|+13|
 |Intelligence|Nature||+5|
 |Intelligence|Religion||+5|
 |Wisdom|Animal Handling||+4|
-|Wisdom|Insight||+4|
+|Wisdom|Insight|Yes|+8|
 |Wisdom|Medicine||+4|
-|Wisdom|Perception||+4|
+|Wisdom|Perception|Yes|+8|
 |Wisdom|Survival||+4|
 |Charisma|Deception||+3|
 |Charisma|Intimidation||+3|
 |Charisma|Performance||+3|
-|Charisma|Persuasion||+3|
+|Charisma|Persuasion|Yes|+7|

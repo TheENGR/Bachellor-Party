@@ -35,8 +35,7 @@ ___
 ## Skills
 |Stat|Skill|Trained|Bonus|
 |:--|:--|--|--:|
-|Strength|Athletics||+5|
-|Dexterity|Athletics||+3|
+|Strength|Athletics|Expert|+13|
 |Dexterity|Acrobatics||+3|
 |Dexterity|Sleight of Hand||+3|
 |Dexterity|Stealth||+3|
@@ -49,8 +48,8 @@ ___
 |Wisdom|Insight||-2|
 |Wisdom|Medicine||-2|
 |Wisdom|Perception||-2|
-|Wisdom|Survival||-2|
+|Wisdom|Survival|Expert|+6|
 |Charisma|Deception||-1|
-|Charisma|Intimidation||-1|
+|Strength OR Charisma|Intimidation|Expert|+13|
 |Charisma|Performance||-1|
 |Charisma|Persuasion||-1|

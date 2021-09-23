@@ -58,24 +58,23 @@ ___
 |Stat|Skill|Trained|Bonus|
 |:--|:--|--|--:|
 |Strength|Athletics||+4|
-|Dexterity|Athletics||+2|
-|Dexterity|Acrobatics||+2|
+|Dexterity|Acrobatics|Yes|+5|
 |Dexterity|Sleight of Hand||+2|
 |Dexterity|Stealth||+2|
-|Intelligence|Arcana (Magic)||+5|
+|Intelligence|Arcana (Magic)|Yes|+9|
 |Intelligence|History||+5|
-|Intelligence|Investigation||+5|
+|Intelligence|Investigation|Yes|+8|
 |Intelligence|Nature||+5|
 |Intelligence|Religion||+5|
 |Wisdom|Animal Handling||+0|
-|Wisdom|Insight||+0|
+|Wisdom|Insight|Yes|+3|
 |Wisdom|Medicine||+0|
-|Wisdom|Perception||+0|
+|Wisdom|Perception|Yes|+3|
 |Wisdom|Survival||+0|
 |Charisma|Deception||+4|
 |Charisma|Intimidation||+4|
-|Charisma|Performance||+4|
-|Charisma|Persuasion||+4|
+|Charisma|Performance|Yes|+7|
+|Charisma|Persuasion|Yes|+7|
 ___
 ## Magic Details
 ### Cantrips

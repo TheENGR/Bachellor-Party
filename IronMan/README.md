@@ -31,7 +31,7 @@ ___
 |[Faerie Fire](#faerie-fire)|[Action](./../README.md#action)|DC 16 DEX||Glitter Bomb Enemies|
 |[Identify](#identify)|1 min|||Learn about magic things|
 |[Detect Magic](#detect-magic)|[Action](./../README.md#action)|||Make magic glow|
-|[Feather Fall](#feather-fall)|[Reaction](./../README.md#reaction))|||Fall Safely|
+|[Feather Fall](#feather-fall)|[Reaction](./../README.md#reaction)|||Fall Safely|
 |[Magic Missle](#magic-missile)|[Action](./../README.md#action)|Always Hits|3x(1d4+1) Force||
 |[Thunderwave](#thunderwave)|[Action](./../README.md#action)|DC 16 CON|2d8 Thunder or 1/2|Pushed back 10 feet on a fail|
 ### 2nd level, 3 a day

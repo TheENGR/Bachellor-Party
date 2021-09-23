@@ -29,14 +29,14 @@ ___
 ### 1st level, 4 a day
 |Name|Casting Time|To Hit|Damage|Extra Effects|
 |:--|:--|:--|:--|:--|
-|[Magic Missile](#magic-missile)|Action|Always Hits|3x(1d4+1) Force||
+|[Magic Missile](#magic-missile)|[Action](./../README.md#action)|Always Hits|3x(1d4+1) Force||
 |[Witch Bolt](#witch-bolt)|[Action](./../README.md#action)|+6|1d12 Lightning|Can keep damaging each turn for 1 minute|
 |[Burning Hands](#burning-hands)|DC 14 DEX|3d6 Fire or 1/2|15 ft cone of fire|
 ### 2nd level, 2 a day
 |Name|Casting Time|To Hit|Damage|Extra Effects|
 |:--|:--|:--|:--|:--|
 |[Levitate](#levitate)|[Action](./../README.md#action)|||You can hover!|
-|[Dragon's Breath](#dragons-breath)|||[Bonus Action](./../README.md#bonus-action)|Basically, [Burning Hands](#burning-hands) every turn for 1 minute|
+|[Dragon's Breath](#dragons-breath)|[Bonus Action](./../README.md#bonus-action)|||Basically, [Burning Hands](#burning-hands) every turn for 1 minute|
 ___
 ## Special Abilities
 ### Second Wind, (1 per rest)

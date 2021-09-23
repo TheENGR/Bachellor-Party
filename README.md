@@ -12,7 +12,7 @@
 
 ## How does the game work? 
 ### Not Combat
-You say what you want to do, like open a door or try to disarmn a trap, and then the DM tell syou if you have to roll a die (d20) to see if it works. You roll the die and add the skill bonus that the DM saya and the resulting number tells everyone if it worked or not. 
+You say what you want to do, like open a door or try to disarmn a trap, and then the DM tells you if you have to roll a die (d20) to see if it works. You roll the die and add the skill bonus that the DM says and the results tells everyone if it worked or not. 
 
 Try to react to everything in character!
 ### Combat

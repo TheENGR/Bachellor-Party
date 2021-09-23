@@ -12,7 +12,7 @@ ___
 |Saving Throw|+2|+8|+3|+0|+4|+2|
 ___
 ## Attacks
-You can make 2 attacks per turn as your [Action](../../README.md#action), and 1 as a [BonusAction](../../README.md#bonus-action)
+You can make 2 attacks per turn as your [Action](./../README.md#action), and 1 as a [BonusAction](./../README.md#bonus-action)
 |Name|Bonus to Hit|Damage (Average)|Range (Normal/Disadvantage)|
 |--|--|--|--|
 |Punch/Kick|+8|1d6+5 (8.5)|Melee (5 ft)|
@@ -30,7 +30,7 @@ ___
 |[Cast a Spell](#magic)|2 Ki|See Spell|
 
 ### Deflect Missles
-[Reaction](../../README.md#reaction) to catch an arrow or other small projectile, reduce damage by 1d10+12, can throw it back at the cost of 1 Ki point if reduced to 0
+[Reaction](./../README.md#reaction) to catch an arrow or other small projectile, reduce damage by 1d10+12, can throw it back at the cost of 1 Ki point if reduced to 0
 ### Evasion 
 Take 1/2 damage when failing a DEX save, none when succeeding 
 ### Stillness of Mind

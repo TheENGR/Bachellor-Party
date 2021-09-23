@@ -12,7 +12,7 @@ ___
 |Saving Throw|-2|-1|+8|+5|+8|+3|
 ___
 ## Attacks
-You can make 1 attacks per turn as your [Action](../../README.md#action)
+You can make 1 attacks per turn as your [Action](./../README.md#action)
 |Name|Bonus to Hit|Damage (Average)|Range (Normal/Disadvantage)|
 |--|--|--|--|
 |Slap|+3|1d4-1 (1.5)|Melee (5 ft)|

@@ -31,7 +31,7 @@ ___
 |[Faerie Fire](#faerie-fire)|Action|DC 16 DEX||Glitter Bomb Enemies|
 |[Identify](#identify)|1 min|||Learn about magic things|
 |[Detect Magic](#detect-magic)|Action|||Make magic glow|
-|[Feather Fall](#feather-fall)|[[Reaction](./../README.md#reaction)](./../README.md#[Reaction](./../README.md#reaction))|||Fall Safely|
+|[Feather Fall](#feather-fall)|Reaction(./../README.md#[Reaction](./../README.md#reaction))|||Fall Safely|
 |[Magic Missle](#magic-missile)|Action|Always Hits|3x(1d4+1) Force||
 |[Thunderwave](#thunderwave)|Action|DC 16 CON|2d8 Thunder|Pushed back 10 feet on a fail. 1/2 damage on save|
 ### 2nd level, 3 a day
@@ -46,13 +46,13 @@ ___
 ___
 ## Special Abilities
 ### Flash of Genius (5x a day)
-When a creature you can see, including yourself, within 30ft (6 squares) of you makes a check or save, you can use your [[Reaction](./../README.md#reaction)](./../README.md#[Reaction](./../README.md#reaction)) to give them a +5 to the roll
+When a creature you can see, including yourself, within 30ft (6 squares) of you makes a check or save, you can use your Reaction(./../README.md#[Reaction](./../README.md#reaction)) to give them a +5 to the roll
 ### Flight
 You can fly for up to 1 hour a day, in 10 minute increments 
 ### Jarvis
 You have advantige on Initiative, and Expertise in Perception and Insight
 ### Defensive Repulsors (4x a day)
-When you are hit with a melee attack, as a [[Reaction](./../README.md#reaction)](./../README.md#[Reaction](./../README.md#reaction)) you can pulse your defensive repulsors to knock the attacker back 15ft
+When you are hit with a melee attack, as a Reaction(./../README.md#[Reaction](./../README.md#reaction)) you can pulse your defensive repulsors to knock the attacker back 15ft
 ___
 ## Skills
 |Stat|Skill|Trained|Bonus|
@@ -98,7 +98,7 @@ ___
 - **Components:** V, S
 - **Duration:** Instantaneous
 ---
-Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 lightning damage, and it can't take [[Reaction](./../README.md#reaction)](./../README.md#[Reaction](./../README.md#reaction))s until the start of its next turn.
+Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 lightning damage, and it can't take Reaction(./../README.md#[Reaction](./../README.md#reaction))s until the start of its next turn.
 
 The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 #### Thunderclap
@@ -149,7 +149,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 #### Feather Fall
 *1st-level transmutation*
 ___
-- **Casting Time:** 1 [[Reaction](./../README.md#reaction)](./../README.md#[Reaction](./../README.md#reaction)), which you take when you or a creature within 60 feet of you falls
+- **Casting Time:** 1 Reaction(./../README.md#[Reaction](./../README.md#reaction)), which you take when you or a creature within 60 feet of you falls
 - **Range:** 60 feet
 - **Components:** V, M (a small feather or a piece of down)
 - **Duration:** 1 minute

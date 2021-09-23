@@ -6,7 +6,7 @@ ___
 - **Initiative** +2
 ___
 ## Stats
-|STAT|Strength|Dexterity|Constitution|Intelligence|Wisdon|Charisma|
+|STAT|Strength|Dexterity|Constitution|Intelligence|Wisdom|Charisma|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 ||20|14|18|10|16|8|
 |Saving Throw|+8|+2|+7|+0|+3|-1|
@@ -49,25 +49,25 @@ ___
 ## Skills
 |Stat|Skill|Trained|Bonus|
 |:--|:--|--|--:|
-|Strength|Athletics|||
-|Dexterity|Athletics|||
-|Dexterity|Acrobatics|||
-|Dexterity|Sleight of Hand|||
-|Dexterity|Stealth|||
-|Intelligence|Arcana (Magic)|||
-|Intelligence|History|||
-|Intelligence|Investigation|||
-|Intelligence|Nature|||
-|Intelligence|Religion|||
-|Wisdom|Animal Handling|||
-|Wisdom|Insight|||
-|Wisdom|Medicine|||
-|Wisdom|Perception|||
-|Wisdom|Survival|||
-|Charisma|Deception|||
-|Charisma|Intimidation|||
-|Charisma|Performance|||
-|Charisma|Persuasion|||
+|Strength|Athletics||+5|
+|Dexterity|Athletics||+2|
+|Dexterity|Acrobatics||+2|
+|Dexterity|Sleight of Hand||+2|
+|Dexterity|Stealth||+2|
+|Intelligence|Arcana (Magic)||+0|
+|Intelligence|History||+0|
+|Intelligence|Investigation||+0|
+|Intelligence|Nature||+0|
+|Intelligence|Religion||+0|
+|Wisdom|Animal Handling||+3|
+|Wisdom|Insight||+3|
+|Wisdom|Medicine||+3|
+|Wisdom|Perception||+3|
+|Wisdom|Survival||+3|
+|Charisma|Deception||-1|
+|Charisma|Intimidation||-1|
+|Charisma|Performance||-1|
+|Charisma|Persuasion||-1|
 ___
 ## Magic Details
 ### Cantrips

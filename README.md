@@ -1,16 +1,22 @@
 # Bachellor-Party
-
+## Videos
 [Combat in 5 minutes](https://www.youtube.com/watch?v=7tnrATiclg4)
 
 ## Characters
 ### Ben - [Albus Dumbledore](./AlbusDumbledore)
+
 ### Blake - [Indiana Jones](./IndianaJones)
+
 ### Derek - [Mandalorian](./Mandalorian)
+
 ### Dru - [Hulk](./Hulk)
+
 ### Matt - [Iron Man](./IronMan)
+
 ### Shaun - [Black Widow](./BlackWidow)
 
-## How does the game work? 
+## How does the game work?
+
 ### Not Combat
 You say what you want to do, like open a door or try to disarmn a trap, and then the DM tells you if you have to roll a die (d20) to see if it works. You roll the die and add the skill bonus that the DM says and the results tells everyone if it worked or not. 
 
@@ -41,10 +47,10 @@ A quick ability you can use this turn
 ##### Move
 - You can walk/run around the battlefield 
 
-You also get your [reaction](#reaction) back to use on someone elses turn
-
 #### Reaction
 Reactions are used to do things after someone else does something.
+
+You get one per "round" and it resets at the start of your turn
 
 Examples:
 1) I wait to punch them until Albus casts a spell

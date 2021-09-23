@@ -22,6 +22,7 @@ At the start of combat the DM asks you to roll "initative" which is a d20 + your
 #### Your Turn
 You can do 3 things on your turn
 ##### Action
+The primary thing you do this turn
 - Cast a spell
 - Use an ability
 - Attack
@@ -34,6 +35,7 @@ You can do 3 things on your turn
 - Dodge
 - Hide
 ##### Bonus Action
+A quick ability you can use this turn
 - These are listed on your character sheet
     - EX: Hulk can punch, or Indiana Jones can Disengage
 ##### Move

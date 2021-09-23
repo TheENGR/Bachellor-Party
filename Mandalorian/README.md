@@ -36,7 +36,7 @@ ___
 |Name|Casting Time|To Hit|Damage|Extra Effects|
 |:--|:--|:--|:--|:--|
 |[Levitate](#levitate)|[Action](./../README.md#action)|||You can hover!|
-|[Dragon's Breath](#dragon's-breath)|||[Bonus Action](./../README.md#bonus-action)|Basically, [Burning Hands](#burning-hands) every turn for 1 minute|
+|[Dragon's Breath](#dragons-breath)|||[Bonus Action](./../README.md#bonus-action)|Basically, [Burning Hands](#burning-hands) every turn for 1 minute|
 ___
 ## Special Abilities
 ### Second Wind, (1 per rest)

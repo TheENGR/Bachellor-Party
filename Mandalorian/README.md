@@ -12,7 +12,7 @@ ___
 |Saving Throw|+8|+2|+7|+0|+3|-1|
 ___
 ## Attacks
-You can make 2 attacks per turn as your [Action](./../BaseRules/Action.md)
+You can make 2 attacks per turn as your [Action](../../README.md#action)
 |Name|Bonus to Hit|Damage (Average)|Range (Normal/Disadvantage)|
 |--|--|--|--|
 |Sword|+8|1d10+5 (10.5)|Melee (5 ft)|

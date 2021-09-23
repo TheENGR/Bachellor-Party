@@ -12,7 +12,7 @@ ___
 |Saving Throw|+0|+8|+2|+6|-1|+4|
 ___
 ## Attacks
-You can make 1 attacks per turn as your [Action](./../BaseRules/Action.md)
+You can make 1 attacks per turn as your [Action](../../README.md#action)
 |Name|Bonus to Hit|Damage (Average)|Range (Normal/Disadvantage)|
 |--|--|--|--|
 |Rapier|+8|1d8+5 (9.5)|Melee (5 ft)|
@@ -23,9 +23,9 @@ ___
 ### Sneak Attack
 Extra 4d6 damage on an attack if you are in melee, have advantage, or have a friend fighting them 
 ### Cunning Action
-[Bonus Action](./../BaseRules/BonusAction.md) to Dash, Dodge, or Disengage
+[Bonus Action](../../README.md#bonus-action) to Dash, Dodge, or Disengage
 ### Uncanny Dodge
-Reaction to take 1/2 damage on an attack
+[Reaction](../../README.md#reaction) to take 1/2 damage on an attack
 ### Evasion 
 Take 1/2 damage when failing a DEX save, none when succeeding 
 ### Fancy Footwork 

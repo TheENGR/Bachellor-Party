@@ -12,7 +12,7 @@ ___
 |Saving Throw|+8|+3, Advantage|+8|-3|+2|-1|
 ___
 ## Attacks
-You can make 3 attacks per turn as your [Action](./../BaseRules/Action.md) and [Bonus Action](./../BaseRules/BonusAction.md)
+You can make 3 attacks per turn as your [Action](../../README.md#action) and [Bonus Action](../../README.md#bonus-action)
 |Name|Bonus to Hit|Damage (Average)|Range (Normal/Disadvantage)|
 |--|--|--|--|
 |SMASH!|+9, Advantage|1d12+8 (14.5)|Melee (10 ft)|

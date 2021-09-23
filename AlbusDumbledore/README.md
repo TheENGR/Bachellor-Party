@@ -30,7 +30,7 @@ ___
 |:--|:--|:--|:--|:--|
 |[Shield](#shield)|[Reaction](./../README.md#reaction)|||+5 to your AC so you are harder to hit|
 |[Witch Bolt](#witch-bolt)|[Action](./../README.md#action)|+8|1d12 Lightning|Can keep damaging each turn for 1 minute|
-|[Tasha's Caustic Brew](#tasha's-caustic-brew)|[Action](./../README.md#action)|DC 16 DEX|2d4 acid on the start of their turn|Hurts them for up to 1 minute or they wipe it off as an [Action](./../README.md#action)|
+|[Tasha's Caustic Brew](#tashas-caustic-brew)|[Action](./../README.md#action)|DC 16 DEX|2d4 acid on the start of their turn|Hurts them for up to 1 minute or they wipe it off as an [Action](./../README.md#action)|
 |[Mage Armor](#mage-armor)|[Action](./../README.md#action)|||Be harder to hit!|
 ### 2nd level, 3 a day
 |Name|Casting Time|To Hit|Damage|Extra Effects|

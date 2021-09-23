@@ -56,3 +56,6 @@ Examples:
 1) I wait to punch them until Albus casts a spell
 2) I stab them as they run away
 3) I cast Shield to protect myself!
+
+#### Concentration
+Some spells require you to concentrate so they last longer. You can only do this on one at a time, and if you are hit have to save to not lose concentration.

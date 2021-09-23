@@ -83,7 +83,7 @@ ___
 
 #### Toll the Dead
 ___
-- **Casting Time:** 1 action
+- **Casting Time:** [Action](./../README.md#action)
 - **Range:** 60 feet
 - **Duration:** Instantaneous
 ---
@@ -92,7 +92,7 @@ You point at one creature you can see within range, and the sound of a dolorous 
 The spell's damage increases by one die when you reach 5th level (2d8 or 2d12), 11th level (3d8 or 3d12), and 17th level (4d8 or 4d12).
 #### Mage Hand
 ___
-- **Casting Time:** 1 action
+- **Casting Time:** [Action](./../README.md#action)
 - **Range:** 30 feet
 - **Duration:** 1 minute
 ---
@@ -103,7 +103,7 @@ You can use your action to control the hand. You can use the hand to manipulate 
 The hand can't attack, activate magic items, or carry more than 10 pounds.
 #### Mind Sliver
 ___
-- **Casting Time:** 1 action
+- **Casting Time:** [Action](./../README.md#action)
 - **Range:** 60 feet
 - **Duration:** 1 round
 ---
@@ -111,7 +111,7 @@ You drive a disorienting spike of psychic energy into the mind of one creature y
 The target must succeed on an Intelligence saving throw or take 2d6 psychic damage and subtract 1d4 from the next saving throw it makes before the end of your next turn.
 #### Fire Bolt
 ___
-- **Casting Time:** 1 action
+- **Casting Time:** [Action](./../README.md#action)
 - **Range:** 120 feet
 - **Duration:** Instantaneous
 ---
@@ -119,28 +119,28 @@ You hurl a mote of fire at a creature or object within range. Make a ranged spel
 ### 1st Level
 #### Shield
 ___
-- **Casting Time:** 1 reaction, which you take when you are hit by an attack or targeted by the magic missile spell
+- **Casting Time:** [Reaction](./../README.md#reaction), which you take when you are hit by an attack or targeted by the magic missile spell
 - **Range:** Self
 - **Duration:** 1 round
 ---
 An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from magic missile.
 #### Mage Armor
 ___
-- **Casting Time:** 1 action
+- **Casting Time:** [Action](./../README.md#action)
 - **Range:** Touch
 - **Duration:** 8 hours
 ---
 You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.
 #### Witch Bolt
 ___
-- **Casting Time:** 1 action
+- **Casting Time:** [Action](./../README.md#action)
 - **Range:** 30 feet
 - **Duration:** [Concentration](./../README.md#concentration), up to 1 minute
 ---
 A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against that creature. On a hit, the target takes 1d12 lightning damage, and on each of your turns for the duration, you can use your action to deal 1d12 lightning damage to the target automatically. The spell ends if you use your action to do anything else. The spell also ends if the target is ever outside the spell's range or if it has total cover from you.
 #### Tasha's Caustic Brew
 ___
-- **Casting Time:** 1 action
+- **Casting Time:** [Action](./../README.md#action)
 - **Range:** Self (30-foot line)
 - **Duration:** [Concentration](./../README.md#concentration), up to 1 minute
 ---
@@ -149,21 +149,21 @@ A stream of acid emanates from you in a line 30 feet long and 5 feet wide in a d
 
 #### Misty Step
 ___
-- **Casting Time:** 1 bonus action
+- **Casting Time:** [Bonus Action](./../README.md#bonus-action)
 - **Range:** Self
 - **Duration:** Instantaneous
 ---
 Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.
 #### Cloud of Daggers
 ___
-- **Casting Time:** 1 action
+- **Casting Time:** [Action](./../README.md#action)
 - **Range:** 60 feet
 - **Duration:** [Concentration](./../README.md#concentration), up to 1 minute
 ---
 You fill the air with spinning daggers in a cube 5 feet on each side, centered on a point you choose within range. A creature takes 4d4 slashing damage when it enters the spell's area for the first time on a turn or starts its turn there.
 #### Ray of Enfeeblement
 ___
-- **Casting Time:** 1 action
+- **Casting Time:** [Action](./../README.md#action)
 - **Range:** 60 feet
 - **Duration:** [Concentration](./../README.md#concentration), up to 1 minute
 ---
@@ -173,14 +173,14 @@ At the end of each of the target's turns, it can make a Constitution saving thro
 ### 3rd Level
 #### Counterspell
 ___
-- **Casting Time:** 1 reaction, which you take when you see a creature within 60 feet of you casting a spell
+- **Casting Time:** [Reaction](./../README.md#reaction), which you take when you see a creature within 60 feet of you casting a spell
 - **Range:** 60 feet
 - **Duration:** Instantaneous
 ---
 You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success, the creature's spell fails and has no effect.
 #### Fireball
 ___
-- **Casting Time:** 1 action
+- **Casting Time:** [Action](./../README.md#action)
 - **Range:** 150 feet
 - **Duration:** Instantaneous
 ---
@@ -189,7 +189,7 @@ A bright streak flashes from your pointing finger to a point you choose within r
 The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.
 #### Hypnotic Pattern
 ___
-- **Casting Time:** 1 action
+- **Casting Time:** [Action](./../README.md#action)
 - **Range:** 120 feet
 - **Duration:** [Concentration](./../README.md#concentration), up to 1 minute
 ---
@@ -198,7 +198,7 @@ You create a twisting pattern of colors that weaves through the air inside a 30-
 The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.
 #### Lightning Bolt
 ___
-- **Casting Time:** 1 action
+- **Casting Time:** [Action](./../README.md#action)
 - **Range:** Self (100-foot line)
 - **Duration:** Instantaneous
 ---
@@ -208,7 +208,7 @@ The lightning ignites flammable objects in the area that aren't being worn or ca
 ### 4th Level
 #### Polymorph
 ___
-- **Casting Time:** 1 action
+- **Casting Time:** [Action](./../README.md#action)
 - **Range:** 60 feet
 - **Duration:** [Concentration](./../README.md#concentration), up to 1 hour
 ---

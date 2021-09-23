@@ -21,23 +21,23 @@ Combat starts when the DM asks for initative or when the players try to kill/att
 At the start of combat the DM asks you to roll "initative" which is a d20 + your initiative bonus. This determines who gets to go first and who has to go last
 #### Your Turn
 You can do 3 things on your turn
-1) Action
-    - Cast a spell
-    - Use an ability
-    - Attack
-        - Swing a sword
-        - Punch someone
-        - Fire a gun
-    - Run Farther
-    - Flee (Disengage)
-        - People cannot hit you when you run away
-    - Dodge
-    - Hide
-2) Bonus Action
-    - These are listed on your character sheet
-        - EX: Hulk can punch, or Indiana Jones can Disengage
-4) Move
-    - You can walk/run around the battlefield 
+##### Action
+- Cast a spell
+- Use an ability
+- Attack
+    - Swing a sword
+    - Punch someone
+    - Fire a gun
+- Run Farther
+- Flee (Disengage)
+    - People cannot hit you when you run away
+- Dodge
+- Hide
+##### Bonus Action
+- These are listed on your character sheet
+    - EX: Hulk can punch, or Indiana Jones can Disengage
+##### Move
+- You can walk/run around the battlefield 
 
 You also get your [reaction](#reaction) back to use on someone elses turn
 

@@ -40,15 +40,15 @@ Take 1/2 damage when failing a DEX save, none when succeeding
 ___
 ## Magic
 ### Cantrips, Unlimited
-|Name|Casting Time|To Hit|Damage|Extra Effects|
-|:--|:--|:--|:--|:--|
-|[Minor Illusion](#minor-illusion)|||||
+|Name|Casting Time|Effects|
+|:--|:--|:--|
+|[Minor Illusion](#minor-illusion)|[Action](./../README.md#action)|Make a small "hologram"|
 ### 2nd Level
-|Name|Casting Time|To Hit|Damage|Extra Effects|
-|:--|:--|:--|:--|:--|
-|[Darkness](#darkness)|||||
-|[Pass without a Trace](#pass-without-a-trace)|||||
-|[Silence](#silence)|||||
+|Name|Casting Time| Effects|
+|:--|:--|:--|
+|[Darkness](#darkness)|[Action](./../README.md#action)|15ft radius sphere of magical darkness|
+|[Pass without Trace](#pass-without-trace)|[Action](./../README.md#action)|+10 to stealth for everyone for an hour|
+|[Silence](#silence)|[Action](./../README.md#action)|Absolute silence in a 20ft radius sphere for up to 10 minutes. Enemy magicians cannot cast|
 ___
 ## Skills
 |Stat|Skill|Trained|Bonus|
@@ -74,4 +74,44 @@ ___
 ___
 ## Magic Details
 ### Cantrips
+
+#### Minor Illusion
+___
+- **Casting Time:** [Action](./../README.md#action)
+- **Range:** 30 feet
+- **Duration:** 1 minute
+---
+You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.
+
+If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else's voice, a lion's roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.
+
+If you create an image of an object—such as a chair, muddy footprints, or a small chest—it must be no larger than a 5-foot cube. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it.
+
+If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
 ### 2nd Level
+
+#### Darkness
+___
+- **Casting Time:** [Action](./../README.md#action)
+- **Range:** 60 feet
+- **Duration:** [Concentration](./../README.md#concentration), up to 10 minutes
+---
+Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can't see through this darkness, and nonmagical light can't illuminate it.
+
+If the point you choose is on an object you are holding or one that isn't being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness.
+
+If any of this spell's area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled.
+#### Pass without Trace
+___
+- **Casting Time:** [Action](./../README.md#action)
+- **Range:** Self
+- **Duration:** [Concentration](./../README.md#concentration), up to 1 hour
+---
+A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 30 feet of you (including you) has a +10 bonus to Dexterity (Stealth) checks and can't be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.
+#### Silence
+___
+- **Casting Time:** [Action](./../README.md#action)
+- **Range:** 120 feet
+- **Duration:** [Concentration](./../README.md#concentration), up to 10 minutes
+---
+For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.
